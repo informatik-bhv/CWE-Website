@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" style="stroke-width:3">
+    <path
+        style="stroke:royalblue;stroke-linecap:round;"
+        d="M 5,5 95,5" />
+    <rect
+        style="fill:none;stroke:royalblue;"
+        width="85"
+        height="55"
+        x="7.5"
+        y="10"
+        rx="2.5"
+        ry="2.5" />
+    <path
+        style="fill:none;stroke:royalblue;stroke-linecap:round;"
+        d="M 5,95 A 13,13 0 0 1 18,83.5 13,13 0 0 1 31,95" />
+    <ellipse
+        style="fill:none;stroke:royalblue;"
+        cx="18"
+        cy="77"
+        rx="6.5"
+        ry="6.5" />
+    <path
+        style="fill:none;stroke:royalblue;stroke-linecap:round;"
+        d="M 68,95 A 13,13 0 0 1 81,83.5 13,13 0 0 1 95,95"/>
+    <ellipse
+        style="fill:none;stroke:royalblue;"
+        cx="81"
+        cy="77"
+        rx="6.5"
+        ry="6.5" />
+    <path
+       style="fill:none;stroke:royalblue;stroke-linecap:round;"
+       d="M 36.7,95 A 13,13 0 0 1 50,83.5 13,13 0 0 1 63,95" />
+    <ellipse
+        style="fill:none;stroke:royalblue;"
+        cx="50"
+        cy="77"
+        rx="6.5"
+        ry="6.5" />
+</svg>

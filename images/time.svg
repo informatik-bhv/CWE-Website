@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" style="stroke-width:5">
+    <ellipse
+        style="fill:#4169e1;stroke:#4169e1;"
+        cx="50"
+        cy="50"
+        rx="40"
+        ry="40" />
+    <path
+        style="fill:none;stroke:#eeeeee;stroke-linecap:round;"
+        d="m 50,22 0,27 h 20" />
+</svg>
