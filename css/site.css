@@ -9,6 +9,7 @@
     --nav-bg-color: white;
     --nav-bg-hover-color: #eee;
     --nav-color: black;
+    --link-color: royalblue;
 }
 
 body {
@@ -54,8 +55,8 @@ header a {
 header button + a {
     display: flex;
     align-items: center;
-    font-weight: 200;
-    font-size: 2em;
+    font-weight: 400;
+    font-size: 1.5em;
     text-transform: uppercase;
 }
 header button + a > img {
@@ -98,6 +99,20 @@ header.expanded button span:last-child {
 }
 header.expanded button span:nth-child(2) {
     transform: scaleY(0);
+}
+
+
+footer {
+    margin: 0 auto;
+    padding: 1em;
+    max-width: 1140px;
+    color: var(--info-color);
+    font-size: .9em;
+}
+footer hr {
+    margin: 0 0 1em 0;
+    border: none;
+    border-top: 1px solid var(--info-color);
 }
 
 .container {
